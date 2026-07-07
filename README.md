@@ -1,4 +1,5 @@
-##👋 Hola, soy Veronica Flor 
+
+## 👋 Hola, soy Verónica Flor
 
 ## 💻 Estudiante de Ingeniería de Sistemas | Universidad Icesi
 
