@@ -1,3 +1,4 @@
+<img width="1798" height="875" alt="eee" src="https://github.com/user-attachments/assets/790cc7ad-a249-4e5a-a723-1341483fef91" />
 
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Soy Veronica Flor</h1>
 <p align="center">
