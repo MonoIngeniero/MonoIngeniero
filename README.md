@@ -35,6 +35,7 @@
 <h1 align="center">📫 Contacto</h1>
 
 
-✉️ [veronicaflor3699@gmail.com](mailto:veronicaflor3699@gmail.com)
+<h3 align = "center"> [veronicaflor3699@gmail.com](mailto:veronicaflor3699@gmail.com)</h3>
 
-“Siempre buscando aprender algo nuevo y convertir ideas en software funcional.”
+<h3 align = "center"> “Siempre buscando aprender algo nuevo y convertir ideas en software funcional.”</h3><img width="500" height="500" alt="caricaturajejeje" src="https://github.com/user-attachments/assets/092969ba-a692-4081-8988-660d6932a80f" />
+
