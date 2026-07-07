@@ -19,7 +19,7 @@
 
 <h1 align="center">📫 Contacto</h1>
 
-
-<h3 align = "center"> veronicaflor3699@gmail.com</h3>
-
+<p align="center">
+  📧 <a href="mailto:veronicaflor3699@gmail.com">veronicaflor3699@gmail.com</a>
+</p>
 
