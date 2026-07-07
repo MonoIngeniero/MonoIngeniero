@@ -17,7 +17,7 @@
 </p>
 
 
-## 💻 Estudiante de Ingeniería de Sistemas | Universidad Icesi
+<h1 aligh="center">💻 Estudiante de Ingeniería de Sistemas | Universidad Icesi</h1>
 
 Soy estudiante de Ingeniería de Sistemas en la Universidad Icesi, me gusta el desarrollo de software y la resolución de problemas mediante programación.
 
