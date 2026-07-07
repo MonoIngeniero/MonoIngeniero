@@ -17,9 +17,9 @@
 </p>
 
 
-<h1 aligh="center">💻 Estudiante de Ingeniería de Sistemas | Universidad Icesi</h1>
+<h1 align="center">💻 Estudiante de Ingeniería de Sistemas | Universidad Icesi</h1>
 
-Soy estudiante de Ingeniería de Sistemas en la Universidad Icesi, me gusta el desarrollo de software y la resolución de problemas mediante programación.
+<h3 align = "center">Soy estudiante de Ingeniería de Sistemas en la Universidad Icesi, me gusta el desarrollo de software y la resolución de problemas mediante programación.</h3>
 
 Actualmente trabajo en proyectos académicos relacionados con Java, Python, C++, bases de datos y programación orientada a objetos, buscando fortalecer mis habilidades para desarrollarme profesionalmente en el área de ingeniería de software.
 
