@@ -21,9 +21,10 @@
 
 <h3 align = "center">Soy estudiante de Ingeniería de Sistemas en la Universidad Icesi, me gusta el desarrollo de software y la resolución de problemas mediante programación.</h3>
 
-Actualmente trabajo en proyectos académicos relacionados con Java, Python, C++, bases de datos y programación orientada a objetos, buscando fortalecer mis habilidades para desarrollarme profesionalmente en el área de ingeniería de software.
+<h3 align = "center" >Actualmente trabajo en proyectos académicos relacionados con Java, Python, C++, bases de datos y programación orientada a objetos, buscando fortalecer mis habilidades para desarrollarme profesionalmente en el área de ingeniería de software.</h3>
 
-## 🚀 Tecnologías y herramientas
+<h1 align="center">🚀 Tecnologías y herramientas</h1>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -31,9 +32,8 @@ Actualmente trabajo en proyectos académicos relacionados con Java, Python, C++,
   </a>
 </p>
 
+<h1 align="center">📫 Contacto</h1>
 
-
-## 📫 Contacto
 
 ✉️ [veronicaflor3699@gmail.com](mailto:veronicaflor3699@gmail.com)
 
