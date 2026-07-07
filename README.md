@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hola, soy Veronica Flor 
 
-<!--
-**MonoIngeniero/MonoIngeniero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de Ingeniería de Sistemas | Universidad Icesi
 
-Here are some ideas to get you started:
+Soy estudiante de Ingeniería de Sistemas en la Universidad Icesi, me gusta el desarrollo de software y la resolución de problemas mediante programación.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente trabajo en proyectos académicos relacionados con Java, Python, C++, bases de datos y programación orientada a objetos, buscando fortalecer mis habilidades para desarrollarme profesionalmente en el área de ingeniería de software.
+
+🚀 Tecnologías y herramientas
+
+Java · Python · C++ · JavaScript · HTML · CSS · MySQL · Git · GitHub · Eclipse · NetBeans
+
+
+📫 Contacto
+
+✉️ [veronicaflor3699@gmail.com](mailto:veronicaflor3699@gmail.com)
+
+
+⭐ “Siempre buscando aprender algo nuevo y convertir ideas en software funcional.”
