@@ -7,6 +7,9 @@ Soy estudiante de Ingeniería de Sistemas en la Universidad Icesi, me gusta el d
 Actualmente trabajo en proyectos académicos relacionados con Java, Python, C++, bases de datos y programación orientada a objetos, buscando fortalecer mis habilidades para desarrollarme profesionalmente en el área de ingeniería de software.
 
 🚀 Tecnologías y herramientas
+## 🚀 Tecnologías y herramientas
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,js,html,css,mysql,git,github,vscode,eclipse)](https://skillicons.dev)
 
 Java · Python · C++ · JavaScript · HTML · CSS · MySQL · Git · GitHub · Eclipse · NetBeans
 
