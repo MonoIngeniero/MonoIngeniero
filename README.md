@@ -9,10 +9,12 @@ Actualmente trabajo en proyectos académicos relacionados con Java, Python, C++,
 🚀 Tecnologías y herramientas
 ## 🚀 Tecnologías y herramientas
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,js,html,css,mysql,git,github,vscode,eclipse,netbeans)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,mysql,git,github,vscode,eclipse,idea" />
+  </a>
+</p>
 
-
-Java · Python · C++ · JavaScript · HTML · CSS · MySQL · Git · GitHub · Eclipse · NetBeans
 
 
 📫 Contacto
