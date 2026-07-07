@@ -1,6 +1,6 @@
 👋 Hola, soy Veronica Flor 
 
-##💻 Estudiante de Ingeniería de Sistemas | Universidad Icesi
+## 💻 Estudiante de Ingeniería de Sistemas | Universidad Icesi
 
 Soy estudiante de Ingeniería de Sistemas en la Universidad Icesi, me gusta el desarrollo de software y la resolución de problemas mediante programación.
 
@@ -16,7 +16,7 @@ Actualmente trabajo en proyectos académicos relacionados con Java, Python, C++,
 
 
 
-##📫 Contacto
+## 📫 Contacto
 
 ✉️ [veronicaflor3699@gmail.com](mailto:veronicaflor3699@gmail.com)
 
