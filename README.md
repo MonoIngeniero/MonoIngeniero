@@ -15,5 +15,4 @@ Java · Python · C++ · JavaScript · HTML · CSS · MySQL · Git · GitHub · 
 
 ✉️ [veronicaflor3699@gmail.com](mailto:veronicaflor3699@gmail.com)
 
-
-⭐ “Siempre buscando aprender algo nuevo y convertir ideas en software funcional.”
+“Siempre buscando aprender algo nuevo y convertir ideas en software funcional.”
