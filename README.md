@@ -21,6 +21,8 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Medium%20Skin%20Tone.png" alt="Man Student Medium Skin Tone" width="25" height="25" />
 <h1 align="center">📫 Contacto</h1>
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20in%20Steamy%20Room%20Light%20Skin%20Tone.png" alt="Woman in Steamy Room Light Skin Tone" width="25" height="25" />
+
 <p align="center">
    <a href="mailto:veronicaflor3699@gmail.com">veronicaflor3699@gmail.com</a>
 </p>
