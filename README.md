@@ -18,6 +18,7 @@
   </a>
 </p>
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Medium%20Skin%20Tone.png" alt="Man Student Medium Skin Tone" width="25" height="25" />
 <h1 align="center">📫 Contacto</h1>
 
 <p align="center">
