@@ -1,14 +1,14 @@
 
-<h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Soy Veronica Flor</h1>
+<h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">, Soy Veronica Flor</h1>
 
 
-<h1 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="30px"/> Estudiante de Ingeniería de Sistemas | Universidad Icesi</h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="35px"/> Estudiante de Ingeniería de Sistemas | Universidad Icesi</h1>
 
 <h3 align = "center">Soy estudiante de Ingeniería de Sistemas en la Universidad Icesi, me gusta el desarrollo de software y la resolución de problemas mediante programación.</h3>
 
 <h3 align = "center" >Actualmente trabajo en proyectos académicos relacionados con Java, Python, C++, bases de datos y programación orientada a objetos, buscando fortalecer mis habilidades para desarrollarme profesionalmente en el área de ingeniería de software.</h3>
 
-<h1 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" />
+<h1 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="35px" />
  Tecnologías y herramientas</h1>
 
 
