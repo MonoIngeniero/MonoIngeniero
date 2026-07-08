@@ -8,7 +8,8 @@
 
 <h3 align = "center" >Actualmente trabajo en proyectos académicos relacionados con Java, Python, C++, bases de datos y programación orientada a objetos, buscando fortalecer mis habilidades para desarrollarme profesionalmente en el área de ingeniería de software.</h3>
 
-<h1 align="center">🚀 Tecnologías y herramientas</h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" />
+ Tecnologías y herramientas</h1>
 
 
 <p align="center">
