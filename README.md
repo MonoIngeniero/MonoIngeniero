@@ -2,7 +2,7 @@
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">, Soy Veronica Flor</h1>
 
 
-<h1 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="35px"/> Estudiante de Ingeniería de Sistemas | Universidad Icesi</h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35px"> Estudiante de Ingeniería de Sistemas | Universidad Icesi</h1>
 
 <h3 align = "center">Soy estudiante de Ingeniería de Sistemas en la Universidad Icesi, me gusta el desarrollo de software y la resolución de problemas mediante programación.</h3>
 
@@ -18,10 +18,8 @@
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Medium%20Skin%20Tone.png" alt="Man Student Medium Skin Tone" width="25" height="25" />
 <h1 align="center">📫 Contacto</h1>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20in%20Steamy%20Room%20Light%20Skin%20Tone.png" alt="Woman in Steamy Room Light Skin Tone" width="25" height="25" />
 
 <p align="center">
    <a href="mailto:veronicaflor3699@gmail.com">veronicaflor3699@gmail.com</a>
