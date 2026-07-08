@@ -2,7 +2,7 @@
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Soy Veronica Flor</h1>
 
 
-<h1 align="center">💻 Estudiante de Ingeniería de Sistemas | Universidad Icesi</h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> Estudiante de Ingeniería de Sistemas | Universidad Icesi</h1>
 
 <h3 align = "center">Soy estudiante de Ingeniería de Sistemas en la Universidad Icesi, me gusta el desarrollo de software y la resolución de problemas mediante programación.</h3>
 
